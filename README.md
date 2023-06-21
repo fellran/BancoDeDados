@@ -88,13 +88,13 @@ Este projeto tem intuito de demonstrar o conteudo aprendido em sala de aula no c
 
 |Scripts    |Clique aqui|
 |-----------|-----------|
-|DDL        |[Clique aqui](./scripts/DDL.sql)|
-|Dados      |[Clique aqui](./scripts/DADOS_TESTE.sql)|
-|Views      |[Clique aqui](./scripts/VIEW.sql)|
-|Funções    |[Clique aqui](./scripts/FUNCTION.sql)|
-|Procedures |[Clique aqui](./Scripts/procedure_INSERT.sql)|
-|Procedures |[Clique aqui](./Scripts/procedure_DELETE.sql)|
-|Procedures |[Clique aqui](./Scripts/procedure_UPDATE.sql)|
+|DDL                |[Clique aqui](./Scripts/DDL.sql)|
+|Dados              |[Clique aqui](./Scripts/DADOS_TESTE.sql)|
+|Views              |[Clique aqui](./Scripts/VIEW.sql)|
+|Funções            |[Clique aqui](./Scripts/FUNCTION.sql)|
+|Procedures insert  |[Clique aqui](./Scripts/procedure_INSERT.sql)|
+|Procedures delete  |[Clique aqui](./Scripts/procedure_DELETE.sql)|
+|Procedures update  |[Clique aqui](./Scripts/procedure_UPDATE.sql)|
 
 
 
