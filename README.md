@@ -1,6 +1,6 @@
 # Projeto Banco de dados
 
-Este projeto tem intuito de demonstrar o conteudo aprendido em sala de aula no curso de **DBA**, para insto foi escolhido um banco de dados para plataformas de streaming.
+Este projeto tem intuito de demonstrar o conteudo aprendido em sala de aula no curso de **DBA**, para isto foi escolhido um banco de dados para plataformas de streaming.
 
 <div align=center>
 
